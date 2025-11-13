@@ -238,6 +238,15 @@ G. DevOps: Docker, Kubernetes, GitHub Actions
 
 -> Better air-quality control inside farm sheds
 
+## Architecture Diagram:
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/69ac51c2-aad1-4595-a274-d9e40a63247b" />
+
+<img width="293" height="172" alt="image" src="https://github.com/user-attachments/assets/e8f8004a-0f13-4062-84d2-81bbd78b0442" />
+
+![images](https://github.com/user-attachments/assets/37009e1b-444a-4b8f-b48b-e90089742e7b)
+
+<img width="273" height="184" alt="image" src="https://github.com/user-attachments/assets/06e010fa-329f-45a2-be87-c5d918683ab6" />
+
 
 ## Research and References:
 
