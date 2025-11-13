@@ -49,7 +49,7 @@ Our solution, BioSecureNet, is a comprehensive digital platform that enables pig
 
 BioSecureNet is built around four key pillars:
 
-a) Biosecurity Workflow Automation
+#### a) Biosecurity Workflow Automation
 
 Digital SOP checklists for worker tasks, disinfection, feed handling, PPE checks, waste management, rodent inspection, vaccination, and quarantine routines.
 
@@ -57,7 +57,7 @@ Each task is time-stamped, GPS-validated, and photo-verified using AI-based imag
 
 Visitors & vehicles must pass through a digital gate-entry module that verifies biosecurity compliance before access.
 
-b) Real-Time Environment & Health Monitoring
+#### b) Real-Time Environment & Health Monitoring
 
 IoT sensors continuously record temperature, humidity, ammonia, CO₂, water flow, feed intake, and animal activity.
 
@@ -65,9 +65,9 @@ A local gateway creates alerts instantly even during internet downtime.
 
 Sensor anomalies automatically trigger corrective-action tasks.
 
-c) Intelligent Risk Prediction & Biosecurity Breach Detection
+#### c) Intelligent Risk Prediction & Biosecurity Breach Detection
 
-### A unique contrastive-learning-based biosecurity risk model evaluates: ###
+### A unique contrastive-learning-based biosecurity risk model evaluates: 
 
 1. Environmental deviations
 
@@ -81,7 +81,7 @@ c) Intelligent Risk Prediction & Biosecurity Breach Detection
 
 The system generates ranked alerts and prevention recommendations.
 
-d) Digital Traceability & Compliance Evidence
+#### d) Digital Traceability & Compliance Evidence
 
 Every vaccination, movement, mortality record, and environment reading is stored in a Merkle-based traceability ledger.
 
